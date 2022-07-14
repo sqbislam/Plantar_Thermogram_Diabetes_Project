@@ -8,21 +8,21 @@ This code was tested primarily on Python 3.8.12 using jupyter notebook.
 The following environment is recommended.
 
 
-cytoolz==0.11.0
-flatbuffers==1.12
-fonttools==4.25.0
-keras==2.9.0
-Keras-Preprocessing==1.1.2
-matplotlib==3.5.1
-statsmodels==0.13.2
-tensorflow-cpu==2.9.1
-voxelmorph==0.2
-xgboost==0.90
-click==7.1.2
-joblib==0.17.0
-opencv-python==4.6.0.66
-lime==0.2.0.1
-shap==0.40.0
+- cytoolz==0.11.0
+- flatbuffers==1.12
+- fonttools==4.25.0
+- keras==2.9.0
+- Keras-Preprocessing==1.1.2
+- matplotlib==3.5.1
+- statsmodels==0.13.2
+- tensorflow-cpu==2.9.1
+- voxelmorph==0.2
+- xgboost==0.90
+- click==7.1.2
+- joblib==0.17.0
+- opencv-python==4.6.0.66
+- lime==0.2.0.1
+- shap==0.40.0
 
 
 # References
@@ -34,7 +34,7 @@ Copyright (c) 2021 Heng
 [https://github.com/Heng14/3D_RP-Net/blob/master/LICENSE](https://github.com/Heng14/3D_RP-Net/blob/master/LICENSE)
 
 
-2. 1. Balakrishnan, G., Zhao, A., Sabuncu, M. R., Guttag, J. & Dalca, A. V. VoxelMorph: A Learning Framework for Deformable Medical Image Registration. IEEE Trans. Med. Imaging 38, 1788–1800 (2018).
+2. Balakrishnan, G., Zhao, A., Sabuncu, M. R., Guttag, J. & Dalca, A. V. VoxelMorph: A Learning Framework for Deformable Medical Image Registration. IEEE Trans. Med. Imaging 38, 1788–1800 (2018).
 Code of VoxelMorph image registration deep learning based model is available under the Apache License 2.0
 [https://github.com/voxelmorph/voxelmorph/blob/dev/LICENSE.md](https://github.com/voxelmorph/voxelmorph/blob/dev/LICENSE.md)
 

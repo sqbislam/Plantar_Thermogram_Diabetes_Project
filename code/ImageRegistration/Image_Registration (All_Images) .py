@@ -646,24 +646,3 @@ get_random_pred(index = 20,data=diabetic_L_scaled,dir =DM_L_dir, pred_dir=pred_d
 # for i in range(0, len(control_L_scaled)):
 #   get_random_pred(index = i, data=control_R_scaled, dir=CG_R_dir, pred_dir = pred_dir,save=True)
 
-"""### Extract patch from ROI"""
-
-def extract_patch():
-  # load the image
-  image = cv2.imread('path/to/your_image.jpg')
-
-  # define some values
-  patch_center = np.array([500, 450])
-  patch_scale = 0.23
-
-  # calc patch position and extract the patch
-  smaller_dim = np.min(image.shape[0:2])
-  patch_size = int(patch_scale * smaller_dim)
-  patch_x = int(patch_center[0] - patch_size / 2.)
-  patch_y = int(patch_center[1] - patch_size / 2.)
-  patch_image = image[patch_x:patch_x+patch_size, patch_y:patch_y+patch_size]
-
-  # show image and patch
-  cv2.imshow('image', image)
-  cv2.imshow('patch_image', patch_image)
-  cv2.waitKey()

@@ -1,6 +1,6 @@
 # Thermal Imaging and deep learning to evaluate the presence of diabetes using machine learning and a multi-view CNN approach. 
 
-#### A clinical toolkit which extracts features from region of interests from the thermogram of a foot and makes a prediciton based on the features.'
+#### The objective of this project is to experiment whether an automated image registration approach combined with region of interest feature extraction from thermal images of patients foot can accurately predict the early detection of diabetic foot ulceration (DFU). Secondly, also test a multi-view deep learning based approach which inputs both feet images to classify diabetic foot ulceration from thermal images accurately
 
 
 # Recommended Requirements

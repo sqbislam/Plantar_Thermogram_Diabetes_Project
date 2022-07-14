@@ -1,0 +1,2 @@
+K-folds,CV Accuracy,ROC-AUC Score,Precision,Recall,Test Accuracy,Test Precision,Test Recall,Test ROC-AUC
+5,0.924 (0.010),0.979 (0.007),0.944 (0.019),0.901 (0.029),0.570 (0.000),0.540 (0.000),0.958 (0.000),0.570 (0.000)

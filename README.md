@@ -26,7 +26,7 @@ The following environment is recommended.
 
 
 # References
-- The following papers and codes were the main references for the construction of the image registration model and mutli-view approach used in this study and for understanding the theory.  
+The following papers and codes were the main references for the construction of the image registration model and mutli-view approach used in this study and for understanding the theory.  
 
 1. Jin, C. et al. Predicting treatment response from longitudinal images using multi-task deep learning. Nat. Commun. 2021 121 12, 1–11 (2021).
 the source code of 3D-RPNet is released under the MIT License  

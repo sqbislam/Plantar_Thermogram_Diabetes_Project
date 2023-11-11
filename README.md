@@ -2,6 +2,8 @@
 
 #### The objective of this project is to experiment whether an automated image registration approach combined with region of interest feature extraction from thermal images of patients foot can accurately predict the early detection of diabetic foot ulceration (DFU). Secondly, also test a multi-view deep learning based approach which inputs both feet images to classify diabetic foot ulceration from thermal images accurately
 
+# Deployment
+The deployed application for this project can be found here [https://github.com/sqbislam/Thermal-Imaging-DiabeticFootUlceration-Detection]{https://github.com/sqbislam/Thermal-Imaging-DiabeticFootUlceration-Detection}
 
 # Recommended Requirements
 This code was tested primarily on Python 3.8.12 using jupyter notebook.
